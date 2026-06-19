@@ -14,9 +14,9 @@ export default function Home() {
         <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-6">
           <div className="flex items-center gap-2.5 font-semibold tracking-tight text-white">
             <span className="flex h-7 w-7 items-center justify-center rounded-lg bg-gradient-to-tr from-indigo-500 to-violet-500 text-xs text-white shadow-lg shadow-indigo-500/20">
-              P
+              HT
             </span>
-            <span>Portfolio OS</span>
+            <span>Hari Om Tripathi</span>
           </div>
           <nav className="hidden md:flex items-center gap-6 text-sm text-[#a1a1aa]">
             <a href="#about" className="hover:text-white transition-colors">About</a>
@@ -45,12 +45,12 @@ export default function Home() {
           </h1>
 
           <p className="mt-6 text-lg leading-8 text-[#a1a1aa] max-w-xl">
-            The boilerplate has been cleaned up. Next.js, Tailwind v4, and shadcn/ui are initialized. We are ready to craft a stellar developer portfolio.
+            "Hello World!"
           </p>
 
           <div className="mt-10 flex flex-col sm:flex-row items-center gap-4 justify-center w-full">
             <Button size="lg" className="w-full sm:w-auto bg-indigo-600 text-white hover:bg-indigo-500 shadow-lg shadow-indigo-600/20 gap-2 h-10 px-5">
-              <span>Let's start coding</span>
+              <span>Let's go</span>
               <ArrowRight className="size-4" />
             </Button>
             <Button size="lg" variant="outline" className="w-full sm:w-auto border-[#27272a] hover:bg-[#18181b] text-white h-10 px-5">
